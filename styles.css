@@ -1,0 +1,16 @@
+body{
+  background-color: #EDCE69;
+}
+.facthere{
+  color: #C08FBF;
+  font-size: 130px;
+}
+.buttonkwk{
+  border-radius: 100px;
+  background-color:#C08FBF;
+  font-size: 50px;
+  color:#9BC8C8;
+  font-family: 'Arial', cursive;
+  font-weight: bold;
+  border-color: #C08FBF;
+}
